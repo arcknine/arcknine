@@ -21,11 +21,3 @@ test:
   pool: 5
   username: keenan
   password:
-
-production:
-  adapter: postgresql
-  encoding: unicode
-  database: arcknine_production
-  pool: 5
-  username: keenan
-  password:
