@@ -21,3 +21,11 @@ test:
   pool: 5
   username: keenan
   password:
+
+production:
+  adapter: postgresql
+  encoding: unicode
+  database: dcmvob11i7ii2
+  pool: 5
+  username: cpgszmfgpofbef
+  password: WcdsTR2aqpNO6aydXNHTotdxRX
